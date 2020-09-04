@@ -3,7 +3,7 @@ A quick way to send emails using a program and a GUI created in Python by myself
 
 ### Installation:
 1. Clone the repo/type `git clone https://github.com/jackokeeffe/QUIKSend.git` into your command prompt.
-2. If your outermost folder is not reelSRCH type `cd QUIKSend` into your command prompt (for IDE's).
+2. If your outermost folder is not QUIKSend type `cd QUIKSend` into your command prompt (for IDE's).
 3. Type `python setup.py install` into your command prompt. Wait for it to finish installing/loading indices.
 4. Run the code and follow the instructions in the GUI.
 
@@ -31,7 +31,7 @@ See [Screenshots](https://github.com/jackokeeffe/QUIKSend/tree/master/screenshot
 
 ### Author:
 - Author: Jack O'Keeffe
-- [Project Link](https://github.com/jackokeeffe/reelSRCH)
+- [Project Link](https://github.com/jackokeeffe/QUIKSend)
 - [Github Profile](https://github.com/jackokeeffe)
 - [StackOverflow](https://stackoverflow.com/users/14068649/jack?tab=profile)
 
