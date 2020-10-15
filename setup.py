@@ -7,7 +7,7 @@ setup(
     url='https://github.com/jackokeeffe/QUIKSend',
     license='',
     author='Jack OKeeffe',
-    author_email='okeeffe.jpo@protonmail.com',
+    author_email='okeeffe.jpo@gmail.com',
     description='Send emails from a GUI created in Python',
     install_requires=['PySimpleGui'],
 )
